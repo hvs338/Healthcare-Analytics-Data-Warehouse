@@ -1,0 +1,5 @@
+dbt-duckdb
+duckdb
+requests
+pandas
+pyarrow
